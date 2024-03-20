@@ -1,1 +1,2 @@
-# mi-primer-repositorio-en-equipo
+Trabajo colaborativo
+Manuel Velasco
