@@ -1,1 +1,2 @@
-# mi-primer-repositorio-en-equipo
+TRABAJO EN EQUIPO
+Joaquìn Betes
